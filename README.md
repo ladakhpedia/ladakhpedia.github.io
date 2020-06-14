@@ -1,4 +1,5 @@
 ## Ladakhpedia pages
+[Website](https://ladakhpedia.github.io)
 [First home page](pages/Ladakhpedia-edited.html)
 
 ## Welcome to GitHub Pages
