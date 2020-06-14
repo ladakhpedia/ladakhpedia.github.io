@@ -1,3 +1,6 @@
+## Ladakhpedia pages
+[First home page](pages/Ladakhpedia-edited.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ladakhpedia/ladakhpedia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
